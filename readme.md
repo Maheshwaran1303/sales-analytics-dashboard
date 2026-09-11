@@ -20,8 +20,8 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn), Jupyter Notebook, Pow
 ## How to Run
 1. Clone this repo
 2. `pip install -r requirements.txt`
-3. Open `notebooks/01_exploration.ipynb` in Jupyter
+3. Open `notebook/01_exploration.ipynb` in Jupyter
 4. Power BI dashboard: open `dashboard.pbix` in Power BI Desktop
 
 ## Dashboard Preview
-![Power BI Dashboard](images/dashboard_powerbi.png)
+![Power BI Dashboard](notebook/images/dashboard_powerbi.png)
